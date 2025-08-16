@@ -1,0 +1,30 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+.stock-search input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+}
+
+.stock-search button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.stock-info {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  display: inline-block;
+}
+
+.error {
+  color: red;
+  margin-top: 1rem;
+}
