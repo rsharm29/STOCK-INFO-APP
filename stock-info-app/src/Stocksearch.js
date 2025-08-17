@@ -45,7 +45,6 @@ function StockSearch() {
           <p>Change: {stockData.percent_change}%</p>
           <p>Average Volume: {stockData.average_volume}</p>
           <p>Previous Close: {stockData.previous_close}</p>
-          <p>Percent Change: {stockData.percent_change}</p>
         </div>
       )}
     </div>
